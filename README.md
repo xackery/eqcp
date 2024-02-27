@@ -1,0 +1,2 @@
+# eqcp
+EQEmu Control Panel
